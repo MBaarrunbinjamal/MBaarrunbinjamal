@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Baarrun bin jamal</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Web Develloper from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-ehsanulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="md-ehsanulhaque" /> </p>
+<p align="left"> <img src="gerogjeri.jpeg" /> </p>
 
 - 🔭 I’m currently working on **AI-driven solutions to real-world problems**
 
