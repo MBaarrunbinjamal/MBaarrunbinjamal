@@ -47,6 +47,6 @@
 ### 📫 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/md-ehsanulhaque" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ehsanulhaque" height="30" width="40" /></a>
-<a href="mailto:ehsanulhaque@protonmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="ehsanulhaque" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/M Baarrun bin Jamal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Baarrun" height="30" width="40" /></a>
+<a href="mailto:mbaarrun2008@gmail.comm"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Baarrun" height="30" width="40" /></a>
 </p>
