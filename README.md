@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Ehsanul Haque</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Baarrun bin jamal</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-ehsanulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="md-ehsanulhaque" /> </p>
