@@ -11,11 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [ehsan.dev](https://ehsan.dev)
 
-- 📝 I regularly write articles on [my blog](https://medium.com/@ehsanulhaque)
-
 - 💬 Ask me about **Python, Django, ML, Git, Docker**
 
-- 📫 How to reach me **ehsanulhaque@protonmail.com**
+- 📫 How to reach me **mbaarrun2008@gmail.com**
 
 - ⚡ Fun fact **I love exploring new tech every week**
 
