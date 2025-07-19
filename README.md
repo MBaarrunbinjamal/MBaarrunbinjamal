@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Baarrun bin jamal</h1>
+<h1 align="center">Hi , I'm Muhammad Baarrun bin jamal</h1>
 <h3 align="center">A passionate Web Develloper from Pakistan</h3>
 
 <p align="left"> <img src="gerogjeri.jpeg" /> </p>
