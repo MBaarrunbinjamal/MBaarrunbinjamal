@@ -33,14 +33,14 @@
 
 ## 📊 GitHub Stats (FIXED)
 
-> ⚠️ Replace `YOUR_USERNAME` with your real GitHub username
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MBaarrunbinjamal&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=MBaarrunbinjamal&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBaarrunbinjamal&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MBaarrunbinjamal&theme=darkhub&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
