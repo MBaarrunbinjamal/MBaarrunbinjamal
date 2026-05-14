@@ -64,8 +64,8 @@
 ## 📬 Contact
 
 - 📧 Email: mbaarrun2008@gmail.com  
-- 💼 LinkedIn: https://linkedin.com  
-- 🌐 Portfolio: https://ehsan.dev  
+- 💼 LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/MBaarrun)  
+- 🌐 Portfolio:[https://mbaarrunsportfolio.vercel.app/](https://mbaarrunsportfolio.vercel.app/)
 
 ---
 
