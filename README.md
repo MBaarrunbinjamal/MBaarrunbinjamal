@@ -82,11 +82,12 @@ const baarrun = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MBaarrunbinjamal&show_icons=true&theme=github_dark&hide_border=true&title_color=00ffff&icon_color=058a94&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" />
-<img width="49%" src="https://streak-stats.demolab.com?user=MBaarrunbinjamal&theme=github-dark-blue&hide_border=true&ring=00ffff&fire=058a94&currStreakLabel=00ffff&cache_seconds=1800" />
+![](https://img.shields.io/badge/Repos-Public%20Projects-00ffff?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Focus-Full%20Stack%20Dev-058a94?style=for-the-badge&logo=code&logoColor=white)
+![](https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-058a94?style=for-the-badge&logo=googlemaps&logoColor=white)
+![](https://img.shields.io/badge/Status-Open%20to%20Work-00ffff?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
-
 <div align="center">
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBaarrunbinjamal&layout=compact&theme=github_dark&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=0d1117&cache_seconds=1800"/>
