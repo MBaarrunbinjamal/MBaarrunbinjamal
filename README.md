@@ -82,14 +82,14 @@ const baarrun = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MBaarrunbinjamal&show_icons=true&theme=github_dark&hide_border=true&title_color=00ffff&icon_color=058a94&text_color=ffffff&bg_color=0d1117" />
-<img width="49%" src="https://streak-stats.demolab.com?user=MBaarrunbinjamal&theme=github-dark-blue&hide_border=true&ring=00ffff&fire=058a94&currStreakLabel=00ffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MBaarrunbinjamal&show_icons=true&theme=github_dark&hide_border=true&title_color=00ffff&icon_color=058a94&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com?user=MBaarrunbinjamal&theme=github-dark-blue&hide_border=true&ring=00ffff&fire=058a94&currStreakLabel=00ffff&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBaarrunbinjamal&layout=compact&theme=github_dark&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=0d1117"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBaarrunbinjamal&layout=compact&theme=github_dark&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=0d1117&cache_seconds=1800"/>
 
 </div>
 
@@ -109,7 +109,7 @@ const baarrun = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MBaarrunbinjamal&theme=react-dark&hide_border=true&color=00ffff&line=058a94&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MBaarrunbinjamal&theme=react-dark&hide_border=true&color=00ffff&line=058a94&point=ffffff&cache_seconds=1800)
 
 </div>
 
