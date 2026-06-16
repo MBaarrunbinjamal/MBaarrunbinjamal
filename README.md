@@ -96,15 +96,6 @@ const baarrun = {
 
 ---
 
-## `> trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MBaarrunbinjamal&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
-
-</div>
-
----
 
 ## `> activity`
 
