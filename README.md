@@ -25,7 +25,9 @@ const baarrun = {
   location:   "Karachi, Pakistan 🇵🇰",
   education:  ["UIT University", "Aptech (4-Semester Diploma)"],
   stack:      ["React", "Node.js", "MongoDB", "Express", "Laravel", "PHP",
-               "Angular", "ASP.NET", "C#", "MySQL", "WordPress"],
+               "Angular", "ASP.NET", "C#", "MySQL", "WordPress",
+               "Flutter", "Dart", "Python", "Docker", "CI/CD"],
+  practices:  ["Agile", "Scrum", "DevOps", "Data Science"],
   currently:  "Building real products that work cleanly under the hood",
   openTo:     ["Freelance Projects", "Internships", "Collaborations"],
 };
@@ -63,10 +65,40 @@ const baarrun = {
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
+**Mobile App Development**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 **Database**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Agile & Project Management**
+
+![Agile](https://img.shields.io/badge/Agile-058a94?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-00ffff?style=for-the-badge&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 **Tools & Other**
 
@@ -83,7 +115,7 @@ const baarrun = {
 <div align="center">
 
 ![](https://img.shields.io/badge/Repos-Public%20Projects-00ffff?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Focus-Full%20Stack%20Dev-058a94?style=for-the-badge&logo=code&logoColor=white)
+![](https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Mobile%20%7C%20Data-058a94?style=for-the-badge&logo=code&logoColor=white)
 ![](https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-058a94?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![](https://img.shields.io/badge/Status-Open%20to%20Work-00ffff?style=for-the-badge&logo=checkmarx&logoColor=white)
 
